@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Project UTS - 00000013091</string>
+    <string name="title_activity_view_book_details">Your Book Details</string>
+    <string name="title_activity_about_me">About Me</string>
+    <string name="sort">Sort</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="switch_">Switch</string>
+    <string name="author">Author</string>
+    <string name="title">Title</string>
+    <string name="sort_by">Sort by</string>
+    <string name="reset">RESET</string>
+    <string name="type_a_title">Type a title…</string>
+    <string name="login_or_create_new_account">Login or Create New Account</string>
+    <string name="password">Password :</string>
+    <string name="username">Username :</string>
+    <string name="search">Search</string>
+    <string name="click_here_for_whatsapp">Click here for Whatsapp!</string>
+    <string name="livia_jessica_00000013091">Livia Jessica (00000013091)</string>
+    <string name="informatika">Informatika</string>
+    <string name="universitas_multimedia_nusantara_2016">Universitas Multimedia Nusantara - 2016</string>
+    <string name="book_title">Book Title</string>
+    <string name="asin">ASIN</string>
+    <string name="groups">Groups</string>
+    <string name="format">Format</string>
+    <string name="publisher">Publisher</string>
+    <string name="sort_by_">Sort By</string>
+    <string name="about_me_">About Me</string>
+    <string name="favorites_">Favorites</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="useruser">useruser</string>
+    <string name="password_">Password :</string>
+    <string name="user">user</string>
+    <string name="username_">Username :</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
